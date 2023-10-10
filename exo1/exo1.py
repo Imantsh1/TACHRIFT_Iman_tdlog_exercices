@@ -17,4 +17,4 @@ class Item:
 
 i = Item(10, 20)
 print(i.price)
-print(i.wseight)
+print(i.weight)
